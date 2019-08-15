@@ -1,0 +1,6 @@
+
+FCFS -> OK
+
+SFJ -> ok
+
+RR -> Não esta implementado de forma correta! ERRO!
