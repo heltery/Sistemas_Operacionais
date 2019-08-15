@@ -1,5 +1,3 @@
-# Sistema_Operacional
+# Sistema Operacional I
 
-Disciplina: Sistema Operacional I
-Professor: Fernando
-2019.1
+Periodo: 2019.1 || Professor: Fernando
