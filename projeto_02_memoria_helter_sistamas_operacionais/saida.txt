@@ -1,0 +1,3 @@
+FIFO 10
+OTM 6
+LRU 8
